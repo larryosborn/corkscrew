@@ -1,0 +1,18 @@
+{
+  "name": "corkscrew",
+  "version": "1.0.0",
+  "description": "Corkscrew",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larryosborn/corkscrew.git"
+  },
+  "author": "Larry Osborn <larry.osborn@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/larryosborn/corkscrew/issues"
+  },
+  "homepage": "https://github.com/larryosborn/corkscrew#readme"
+}
